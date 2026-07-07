@@ -21,7 +21,7 @@ Contribute to open-source projects in the future <br/>
 ![](https://streak-stats.demolab.com/?user=JanaYasser03&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JanaYasser03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Quote
+### ✍️ Random Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

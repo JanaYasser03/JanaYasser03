@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://github.com/JanaYasser03/JanaYasser03/blob/main/Web%20(1).png?raw=true" height=370> </p>
+
 # ✨ About Me:
 - I'm a self-taught developer and aspiring full-stack developer who loves turning ideas into real projects and learning something new every day. <br/>
 - I enjoy building practical applications, improving my problem-solving skills, and continuously expanding my knowledge through hands-on projects. Every project teaches me something new, and every challenge helps me grow as a developer. <br/><br/>

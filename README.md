@@ -171,6 +171,17 @@
 </p>
 
 <br>
+<h2 align="center">🌙 Random Dev Quote</h2>
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Random developer quote"
+  />
+</p>
+
+
+<br>
 <h2 align="center">💌 Connect With Me</h2>
 
 <p align="center">
